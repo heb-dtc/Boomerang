@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boomerang</string>
+    <string name="chooser_name">Choose App to continue</string>
+    <string name="action_settings">Settings</string>
+    <string name="nothing_to_do">Nothing to boomerang!</string>
+
+</resources>
